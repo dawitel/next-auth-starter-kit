@@ -1,3 +1,4 @@
+<p><img src=".gihub/Starter.js.jpg"/></p>
 <h1 align="center">Starter.JS</h1>
 <h3 align="center">Build and ship your micro SaaS app in hours!</h3>
 <hr>
