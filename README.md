@@ -1,4 +1,4 @@
-<p align="center">## Starter.JS</p>
+<h1 align="center">Starter.JS</h1>
 <h3 align="center">Build and ship your micro SaaS app in hours!</h3>
 <hr>
 
@@ -27,26 +27,26 @@ Luckily here is where we come in. This project is initiated by founders who them
 
 This starter kit is built considering scalablity, SEO, maintainablity, automated testing and deployment, esthetics and elegance. Our supported features include the following:
 
-✔ CLI tool for scafolding, generating and building \
-✔ Next JS 14 with both TypeScript & JavaScript \
-✔ Tailwind css and shadcn + next UI support \
-✔ Beautifully designed landing page and blog \
-✔ Custom reusable componenets, Hooks, and providers \
-✔ Content management system \
-✔ File uploads with uploadcare, uploadthing or cloudinary (you can choose) \
-✔ Next-auth, 2FA, Oauth 2.0, SSO, and magic link configurations \
-✔ Role-based-access-control (RBAC) \
-✔ GraphQL with Apollo client or RESTfull APIs (you can choose) \
-✔ Next JS server actions or traditional API route (you can choose) \
-✔ MySQL, Postgres, MongoDB, casandra configurations \
-✔ Prisma or Drizzel ORM (you can choose) \
-✔ Stripe integration \
-✔ OpenAI integration \ 
-✔ Email automation with resend.io or self hosted 00 (you can choose) \
-✔ SST, Docker, Github Actions, and circle CI configuration \
-✔ cypress and jest configurations \
-✔ Custom backend integration API \ 
-✔ Other minor configurations for linting, end-to-end type saftey and more \
+✔ CLI tool for scafolding, generating and building <br/>
+✔ Next JS 14 with both TypeScript & JavaScript <br/>
+✔ Tailwind css and shadcn + next UI support <br/>
+✔ Beautifully designed landing page and blog <br/>
+✔ Custom reusable componenets, Hooks, and providers <br/>
+✔ Content management system <br/>
+✔ File uploads with uploadcare, uploadthing or cloudinary (you can choose) <br/>
+✔ Next-auth, 2FA, Oauth 2.0, SSO, and magic link configurations <br/>
+✔ Role-based-access-control (RBAC) <br/>
+✔ GraphQL with Apollo client or RESTfull APIs (you can choose) <br/>
+✔ Next JS server actions or traditional API route (you can choose) <br/>
+✔ MySQL, Postgres, MongoDB, casandra configurations <br/>
+✔ Prisma or Drizzel ORM (you can choose) <br/>
+✔ Stripe integration <br/>
+✔ OpenAI integration  <br/>
+✔ Email automation with resend.io or self hosted 00 (you can choose) <br/>
+✔ SST, Docker, Github Actions, and circle CI configuration <br/>
+✔ cypress and jest configurations <br/>
+✔ Custom backend integration API <br/>
+✔ Other minor configurations for linting, end-to-end type saftey and more <br/>
 
 With these time consuming jargons out of you way you can ship it faster!
 
