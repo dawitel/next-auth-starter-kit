@@ -1,4 +1,4 @@
-<p><img src="./.gihub/Starter.js.jpg" align="center" width="400"/></p>
+<p><img src="./.github/Starter.js.jpg" align="center" width="400"/></p>
 <h1 align="center">Starter.JS</h1>
 <h3 align="center">Build and ship your micro SaaS app in hours!</h3>
 <hr>
